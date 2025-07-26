@@ -1,0 +1,1101 @@
+[
+    {
+        "text": "",
+        "font_size": 12.0,
+        "is_bold": false,
+        "page_num": 1,
+        "y_pos": 768.46
+    },
+    {
+        "text": "Welcome to the \u202f \u201cConnecting the Dots\u201d Challenge",
+        "font_size": 20.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 73.43
+    },
+    {
+        "text": "Rethink Reading. Rediscover Knowledge",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 107.28
+    },
+    {
+        "text": "What if every time you opened a PDF, it didn\u2019t just  sit there \u2014it  spoke to you ,  connected ideas , and  narrated meaning  across your entire library?",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 2,
+        "y_pos": 155.55
+    },
+    {
+        "text": "That\u2019s the future we\u2019re building \u2014 and we want  you  to help shape it.",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 203.83
+    },
+    {
+        "text": "In the  Connecting the Dots Challenge , your mission is to reimagine the humble  PDF as an intelligent, interactive experience\u2014one that  understands structure ,  surfaces insights , and responds  to you  like a trusted research companion.",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 234.83
+    },
+    {
+        "text": "The Journey Ahead",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 300.1
+    },
+    {
+        "text": "\u2022   Round 1:",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 334.35
+    },
+    {
+        "text": "Kick things off by building the brains \u2014 extract structured outlines from  raw PDFs with blazing speed and pinpoint accuracy. Then, power it up  with on-device intelligence that understands sections and links related  ideas together.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 2,
+        "y_pos": 365.35
+    },
+    {
+        "text": "\u2022   Round 2:",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 447.87
+    },
+    {
+        "text": "It\u2019s showtime! Build a beautiful, intuitive reading webapp using Adobe\u2019s  PDF Embed API. You will be using your Round 1 work to design a  futuristic webapp.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 2,
+        "y_pos": 478.9
+    },
+    {
+        "text": "Why This Matters",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 544.17
+    },
+    {
+        "text": "In a world flooded with documents, what wins is not more content \u2014 it\u2019s  context . You\u2019re not just building tools \u2014 you\u2019re building the future of how we  read, learn, and connect . No matter your background \u2014 ML hacker, UI builder,  or insight whisperer \u2014 this is your stage.",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 575.17
+    },
+    {
+        "text": "Are you in?",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 657.7
+    },
+    {
+        "text": "It\u2019s time to read between the lines. Connect the dots. And build a PDF  experience that feels like  magic . Let\u2019s go.",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 2,
+        "y_pos": 688.7
+    },
+    {
+        "text": "Round 1A: Understand Your Document",
+        "font_size": 20.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 76.53
+    },
+    {
+        "text": "Challenge Theme: Connecting the Dots Through Docs",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 117.3
+    },
+    {
+        "text": "Your Mission",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 148.3
+    },
+    {
+        "text": "You're handed a PDF \u2014 but instead of simply reading it, you're tasked with  making sense of it like a machine would. Your job is to extract a structured  outline of the document \u2014 essentially the  Title , and headings like  H1 ,  H2 , and  H3  \u2014 in a clean, hierarchical format.",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 179.55
+    },
+    {
+        "text": "This outline will be the  foundation  for the rest of your hackathon journey.",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 261.83
+    },
+    {
+        "text": "Why This Matters",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 293.1
+    },
+    {
+        "text": "PDFs are everywhere \u2014 but machines don\u2019t naturally understand their  structure. By building an outline extractor, you\u2019re enabling smarter document  experiences, like semantic search, recommendation systems, and insight  generation.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 3,
+        "y_pos": 324.1
+    },
+    {
+        "text": "What You Need to Build",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 406.37
+    },
+    {
+        "text": "You must build a solution that:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 3,
+        "y_pos": 437.62
+    },
+    {
+        "text": "\u2022   Accepts a  PDF file  (up to 50 pages)",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 468.65
+    },
+    {
+        "text": "\u2022   Extracts:",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 3,
+        "y_pos": 485.9
+    },
+    {
+        "text": "o   Title",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 502.9
+    },
+    {
+        "text": "o   Headings:  H1, H2, H3 (with level and page number)",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 519.9
+    },
+    {
+        "text": "\u2022   Outputs a valid JSON file in the format below:   {     \"title\": \"Understanding AI\",     \"outline\": [       { \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },       { \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },       { \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }     ]   }",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 3,
+        "y_pos": 537.15
+    },
+    {
+        "text": "You Will Be Provided",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 704.95
+    },
+    {
+        "text": "1.   A  sample input PDF  (e.g., sample.pdf)   2.   A  sample ground truth output  (sample.json) for format clarity",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 3,
+        "y_pos": 733.8
+    },
+    {
+        "text": "3.   Sample Dockerfile   4.   Sample Solution",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 72.86
+    },
+    {
+        "text": "Docker Requirements",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 4,
+        "y_pos": 123.3
+    },
+    {
+        "text": "\u2022",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 154.3
+    },
+    {
+        "text": "\u2022   Please ensure your Dockerfile is compatible with AMD64  architecture. Since we will build and run the image on an AMD64  machine, your base image and any dependencies should support  linux/amd64. Optionally, you can include the following in your  Dockerfile to explicitly specify the platform: FROM -- platform=linux/amd64 <base_image>",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 171.3
+    },
+    {
+        "text": "\u2022   CPU architecture:  amd64 (x86_64)",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 4,
+        "y_pos": 274.07
+    },
+    {
+        "text": "\u2022   No GPU dependencies",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 291.1
+    },
+    {
+        "text": "\u2022   Model size (if used) \u2264 200MB",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 308.1
+    },
+    {
+        "text": "\u2022   Should work offline \u2014 no network/internet calls",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 325.35
+    },
+    {
+        "text": "Expected Execution",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 4,
+        "y_pos": 356.35
+    },
+    {
+        "text": "We will build the docker image using the following command:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 387.37
+    },
+    {
+        "text": "```docker build --platform linux/amd64 -t  mysolutionname:somerandomidentifier```",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 418.62
+    },
+    {
+        "text": "After building the image, we will run the solution using the run command  specified in the submitted instructions.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 466.65
+    },
+    {
+        "text": "```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output -- network none mysolutionname:somerandomidentifier```",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 514.9
+    },
+    {
+        "text": "Your container should:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 563.17
+    },
+    {
+        "text": "\u2022   Automatically process all PDFs from /app/input directory,  generating a corresponding filename.json in /app/output for each  filename.pdf",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 594.17
+    },
+    {
+        "text": "\u2022   output.json",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 645.45
+    },
+    {
+        "text": "Constraints",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 4,
+        "y_pos": 676.7
+    },
+    {
+        "text": "Constraint    Requirement    Execution  time",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 4,
+        "y_pos": 707.7
+    },
+    {
+        "text": "\u2264 10 seconds for a 50-page  PDF",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 4,
+        "y_pos": 724.72
+    },
+    {
+        "text": "Model size  \u2264 200MB (if used)",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 75.03
+    },
+    {
+        "text": "Network   No internet access  allowed",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 92.03
+    },
+    {
+        "text": "Runtime",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 152.05
+    },
+    {
+        "text": "Must run on CPU (amd64),  your solution should run on  the system with 8 CPUs and  16 GB RAM configurations",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 126.3
+    },
+    {
+        "text": "Scoring Criteria",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 225.83
+    },
+    {
+        "text": "Criteria    Max  Points    Heading Detection Accuracy (Precision +  Recall)   25",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 256.83
+    },
+    {
+        "text": "Performance (Time & Size Compliance)   10   Bonus: Multilingual Handling (e.g.,  Japanese)    10",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 325.35
+    },
+    {
+        "text": "Total    45",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 376.62
+    },
+    {
+        "text": "Submission Checklist",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 424.62
+    },
+    {
+        "text": "1.   Git Project with a working Dockerfile in the root director and    2.   A working  Dockerfile    3.   All dependencies installed within the container   4.   A README.md that explains:",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 453.7
+    },
+    {
+        "text": "o   Your approach",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 524.15
+    },
+    {
+        "text": "o   Any models or libraries used",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 541.4
+    },
+    {
+        "text": "o   How to build and run your solution (This is purely for  documentation purpose, your solution should run using the  \u201cExpected Execution\u201d section above.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 558.42
+    },
+    {
+        "text": "Pro Tips",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 5,
+        "y_pos": 623.67
+    },
+    {
+        "text": "\u2022   Don\u2019t rely solely on font sizes for heading level determination \u2014  headings in some PDFs break that assumption.",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 654.7
+    },
+    {
+        "text": "\u2022   Test your solution across both simple and complex PDFs.",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 688.95
+    },
+    {
+        "text": "\u2022   Make your code modular \u2014 you\u2019ll reuse this structure in Round  1B.",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 5,
+        "y_pos": 706.2
+    },
+    {
+        "text": "\u2022   Important \u2013 Please keep your Git Repo private till the competition  deadline, you will be informed, when to make the repo public.",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 75.03
+    },
+    {
+        "text": "What Not to Do",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 123.3
+    },
+    {
+        "text": "\u2022   Do not hardcode headings or file-specific logic",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 154.3
+    },
+    {
+        "text": "\u2022   Do not make API or web calls",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 171.3
+    },
+    {
+        "text": "\u2022   Do not exceed the runtime/model size constraints",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 188.55
+    },
+    {
+        "text": "[[Public Dataset Folder]]",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 219.58
+    },
+    {
+        "text": "(For Sample Input and Output Files, please refer to the appendix)",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 250.83
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 281.83
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 312.85
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 6,
+        "y_pos": 344.1
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 375.12
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 406.12
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 437.37
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 468.4
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 499.4
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 530.65
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 561.67
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 592.68
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 623.93
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 654.95
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 686.2
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 6,
+        "y_pos": 717.22
+    },
+    {
+        "text": "Round 1B: Persona-Driven Document Intelligence",
+        "font_size": 20.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 76.53
+    },
+    {
+        "text": "Theme: \u202f \u201cConnect What Matters \u2014 For the User Who Matters\u201d",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 115.13
+    },
+    {
+        "text": "Challenge Brief (For Participants)",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 148.3
+    },
+    {
+        "text": "You will build a system that acts as an intelligent document analyst, extracting  and prioritizing the most relevant sections from a collection of documents based  on a specific persona and their job-to-be-done.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 179.55
+    },
+    {
+        "text": "Input Specification",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 244.83
+    },
+    {
+        "text": "2.   Document Collection : 3-10 related PDFs  Persona Definition : Role",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 273.66
+    },
+    {
+        "text": "description with specific expertise and focus areas",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 293.1
+    },
+    {
+        "text": "3.   Job-to-be-Done : Concrete task the persona needs to accomplish",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 307.93
+    },
+    {
+        "text": "Document collection, persona and job-to-be-done can be very diverse. So, the  solution that teams need to build needs to be generic to generalize to this  variety.",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 341.1
+    },
+    {
+        "text": "\u2022   Documents can be from any domain (Example: Research papers,  school/college books, financial reports, news articles etc.)",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 406.37
+    },
+    {
+        "text": "\u2022   Persona can again be very diverse (Example: Researcher, Student,  Salesperson, Journalist, Entrepreneur etc)",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 440.62
+    },
+    {
+        "text": "\u2022   Job-to-be-done: This will be related to the persona (Example:  Provide a literature review for a given topic and available research  papers, What should I study for Organic Chemistry given the  chemistry documents, Summarize the financials of corporation xyz  given the detailed year end financial reports etc.)",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 474.9
+    },
+    {
+        "text": "Sample Test Cases",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 574.43
+    },
+    {
+        "text": "Test Case 1: Academic Research",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 605.42
+    },
+    {
+        "text": "\u2022   Documents : 4 research papers on \"Graph Neural Networks for  Drug Discovery\"",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 636.45
+    },
+    {
+        "text": "\u2022   Persona : PhD Researcher in Computational Biology",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 670.7
+    },
+    {
+        "text": "\u2022   Job : \"Prepare a comprehensive literature review focusing on  methodologies, datasets, and performance benchmarks\"",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 7,
+        "y_pos": 687.7
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 7,
+        "y_pos": 735.97
+    },
+    {
+        "text": "Test Case 2: Business Analysis",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 75.03
+    },
+    {
+        "text": "\u2022   Documents : 3 annual reports from competing tech companies  (2022-2024)",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 106.03
+    },
+    {
+        "text": "\u2022   Persona : Investment Analyst",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 140.3
+    },
+    {
+        "text": "\u2022   Job : \"Analyze revenue trends, R&D investments, and market  positioning strategies\"",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 157.3
+    },
+    {
+        "text": "Test Case 3: Educational Content",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 205.58
+    },
+    {
+        "text": "\u2022   Documents : 5 chapters from organic chemistry textbooks",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 236.83
+    },
+    {
+        "text": "\u2022   Persona : Undergraduate Chemistry Student",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 253.82
+    },
+    {
+        "text": "\u2022   Job : \"Identify key concepts and mechanisms for exam preparation  on reaction kinetics\"",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 270.83
+    },
+    {
+        "text": "Required Output",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 319.1
+    },
+    {
+        "text": "\u2022   Output JSON format: Refer  challenge1b_output.json",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 8,
+        "y_pos": 350.1
+    },
+    {
+        "text": "The output should contain:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 8,
+        "y_pos": 381.37
+    },
+    {
+        "text": "1.   Metadata:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 8,
+        "y_pos": 410.2
+    },
+    {
+        "text": "a.   Input documents   b.   Persona   c.   Job to be done   d.   Processing timestamp   2.   Extracted Section:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 8,
+        "y_pos": 427.2
+    },
+    {
+        "text": "a.   Document   b.   Page number   c.   Section title   d.   Importance_rank   3.   Sub-section Analysis:",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 8,
+        "y_pos": 512.73
+    },
+    {
+        "text": "a.   Document   b.     c.   Refined Text   d.   Page Number  Constraints",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 600.06
+    },
+    {
+        "text": "\u2022   Must run  on CPU  only",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 668.7
+    },
+    {
+        "text": "\u2022   Model size  \u2264 1GB",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 685.95
+    },
+    {
+        "text": "\u2022   Processing time \u2264 60  seconds  for document collection (3-5  documents)",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 702.95
+    },
+    {
+        "text": "\u2022   No internet access  allowed during execution",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 8,
+        "y_pos": 737.22
+    },
+    {
+        "text": "Deliverables",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 75.03
+    },
+    {
+        "text": "\u2022   approach_explanation.md (300-500 words explaining  methodology)",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 106.03
+    },
+    {
+        "text": "\u2022   Dockerfile and execution instructions",
+        "font_size": 10.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 140.3
+    },
+    {
+        "text": "Sample input/output for testing",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 171.3
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 202.58
+    },
+    {
+        "text": "\u2022",
+        "font_size": 10.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 233.58
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 264.83
+    },
+    {
+        "text": "Scoring Criteria",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 295.85
+    },
+    {
+        "text": "Criteria",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 344.85
+    },
+    {
+        "text": "Max  Points    Description",
+        "font_size": 14.0,
+        "is_bold": true,
+        "page_num": 9,
+        "y_pos": 327.6
+    },
+    {
+        "text": "Section Relevance    60",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 379.62
+    },
+    {
+        "text": "How well selected sections match  persona + job requirements with  proper stack ranking",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 362.6
+    },
+    {
+        "text": "Sub-Section Relevance   40   Quality of granular subsection  extraction and ranking",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 414.62
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 463.65
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 494.65
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 525.65
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 556.92
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 587.93
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 619.17
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 650.2
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 681.2
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 712.45
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 9,
+        "y_pos": 743.47
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 75.03
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 106.03
+    },
+    {
+        "text": "Appendix:",
+        "font_size": 20.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 138.27
+    },
+    {
+        "text": "https://github.com/jhaaj08/Adobe-India- Hackathon25.git",
+        "font_size": 20.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 189.05
+    },
+    {
+        "text": "",
+        "font_size": 12.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 245.06
+    },
+    {
+        "text": "",
+        "font_size": 12.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 270.06
+    },
+    {
+        "text": "",
+        "font_size": 20.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 305.07
+    },
+    {
+        "text": "",
+        "font_size": 14.0,
+        "is_bold": false,
+        "page_num": 10,
+        "y_pos": 340.35
+    }
+]
