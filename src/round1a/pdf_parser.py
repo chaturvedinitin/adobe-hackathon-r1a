@@ -53,7 +53,7 @@ def extract_text_blocks(pdf_path):
     doc.close()
     return all_blocks
 
-# --- Example Usage ---
+
 if __name__ == "__main__":
     # This block demonstrates how to use the function and inspect its output.
     # It will run only when the script is executed directly.
@@ -86,9 +86,9 @@ if __name__ == "__main__":
         # If font files are not found, this block will be executed.
         if "need font file" in str(e):
             print("---")
-            print("⚠️  Warning: Could not create a dummy PDF because standard fonts were not found on your system.")
-            print("This is an environment issue and does not affect the correctness of the parsing function.")
-            print("\n✅  ACTION: Please place a real PDF file (e.g., the one from the hackathon) into the 'input' folder and run the script again.")
+            print("\n Warning: Could not create a dummy PDF because standard fonts were not found on your system.")
+            print("\n This is an environment issue and does not affect the correctness of the parsing function.")
+            print("\n ACTION: Please place a real PDF file (e.g., the one from the hackathon) into the 'input' folder and run the script again.")
             print("---")
             # Exit gracefully if we can't create the test file and none exists
             if not os.path.exists(sample_pdf_path):
@@ -106,7 +106,7 @@ if __name__ == "__main__":
         with open(output_path, "w") as f:
             json.dump(extracted_data, f, indent=4)
         
-        print(f"\n✅ Successfully extracted {len(extracted_data)} text blocks.")
+        print(f"\n Successfully extracted {len(extracted_data)} text blocks.")
         print(f"Raw extracted data saved to '{output_path}'")
         
         print("\n--- First 5 Extracted Blocks ---")
